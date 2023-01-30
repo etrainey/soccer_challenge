@@ -1,0 +1,15 @@
+{
+    "default" : [
+        ["id", false],
+        ["points_total", true]
+    ],
+    "1224" : [
+        ["id", false],
+        ["points_total", true]
+    ],
+    "fair" : [
+        ["id", false],
+        ["scores_diff_total", true],
+        ["points_total", true]
+    ]
+}
