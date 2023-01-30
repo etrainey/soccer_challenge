@@ -12,7 +12,8 @@ class TestSoccer(unittest.TestCase):
             ]
         )
 
-    def
+    def test_evaluate_results(self):
+        self.assertListEqual()
 
 if __name__ == '__main__':
     unittest.main()

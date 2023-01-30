@@ -1,6 +1,6 @@
 {
     "default" : [
-        ["id", false],
+        ["id", true],
         ["points_total", true]
     ],
     "1224" : [
@@ -11,5 +11,12 @@
         ["id", false],
         ["scores_diff_total", true],
         ["points_total", true]
+    ],
+    "everything" : [
+        ["id", true],
+        ["scores_total", true],
+        ["points_total", true],
+        ["scores_diff_total", true],
+        ["rank", true]
     ]
 }

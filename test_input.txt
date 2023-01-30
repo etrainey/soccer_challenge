@@ -10,3 +10,7 @@ Tarantulas 1, FC Awesome 0
 Lions 1, Tarantulas 1
 Tarantulas 3, Snakes 1
 Lions 4, Tarantulas 0
+The Big Team 1, FC Awesome 0
+Lions 1, The Big Team 1
+Tarantulas 3, The Big Team 1
+The Big Team 4, Tarantulas 0
